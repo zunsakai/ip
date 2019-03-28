@@ -1,0 +1,15 @@
+{
+    "name": "local-ip",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "bin": {
+        "ip": "app.js"
+    },
+    "keywords": [],
+    "author": "dungpt",
+    "license": "ISC",
+    "dependencies": {
+        "shelljs": "^0.8.3"
+    }
+}
